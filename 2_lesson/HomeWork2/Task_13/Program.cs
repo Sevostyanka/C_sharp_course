@@ -4,37 +4,23 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-int ThirdDigit (int a)
-{
-    int num3 = a % 10;
-    return num3;
-}
-
 int ShortNumder (int b)
 {
-    int count = 0;
-    int bShort = b;
-    while (bShort > 999)
+    while (b > 999)
     {
-        bShort = b / 10;
-        count= count +1;
+        b = b / 10;
     }
-    return bShort;
+    return b % 10;
 }
 
 int abc = int.Parse(Console.ReadLine());
 
-if (abc < 999 & abc > 99)
+if (abc > 99)
 {
-    Console.WriteLine($"В числе {abc} третья цифра - {ThirdDigit(abc)}");
-}
-
-else if (abc < 100)
-{
-    Console.WriteLine($"В числе {abc} нет третьей цифры");
+    Console.WriteLine($"В числе {abc} третья цифра - {ShortNumder(abc)}");
 }
 
 else 
 {
-    Console.WriteLine($"В числе {abc} третья цифра - {ThirdDigit(ShortNumder(abc))}");
+    Console.WriteLine($"В числе {abc} нет третьей цифры");
 }
