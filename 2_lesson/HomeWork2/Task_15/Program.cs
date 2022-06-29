@@ -6,7 +6,7 @@
 
 int day = int.Parse(Console.ReadLine());
 
-if (day > 1 & day < 6)
+if (day >= 1 & day < 6)
 {
     Console.WriteLine("Это будний день");
 }
