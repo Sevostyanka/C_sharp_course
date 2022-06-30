@@ -1,0 +1,15 @@
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\1-3z.csproj.AssemblyReference.cache
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\1-3z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\1-3z.AssemblyInfoInputs.cache
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\1-3z.AssemblyInfo.cs
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\1-3z.csproj.CoreCompileInputs.cache
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\bin\Debug\net6.0\1-3z.exe
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\bin\Debug\net6.0\1-3z.deps.json
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\bin\Debug\net6.0\1-3z.runtimeconfig.json
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\bin\Debug\net6.0\1-3z.dll
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\bin\Debug\net6.0\1-3z.pdb
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\1-3z.dll
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\refint\1-3z.dll
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\1-3z.pdb
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\1-3z.genruntimeconfig.cache
+C:\Users\Mikki\Desktop\Учеба Кэт\C#\Семинары\Семинар1\C_sharp_course\3_Lesson\1-3z\obj\Debug\net6.0\ref\1-3z.dll
