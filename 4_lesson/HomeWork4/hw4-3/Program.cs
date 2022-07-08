@@ -21,5 +21,5 @@ void PrintArray(int[] array)
     }
 }
 
-int size = 12;
+int size = 8;
 PrintArray(NewArray(size));
