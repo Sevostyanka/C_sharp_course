@@ -2,7 +2,6 @@
 // 0, 7, 8, -2, -2 -> 2
 // 1, -7, 567, 89, 223-> 3
 
-
 int[] MassNums(int size)
 {
     int[] arr = new int[size];
