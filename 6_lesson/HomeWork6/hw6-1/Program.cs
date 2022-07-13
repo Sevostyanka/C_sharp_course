@@ -35,7 +35,9 @@ void PositiveAmount(int[] arr)
     Console.WriteLine($"Количество чисел больше 0: {count}");
 }
 
+Console.WriteLine("Введите размер массива:");
 int a = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите элементы массива:");
 int[] mass = MassNums(a);
 Print(mass);
 PositiveAmount(mass);

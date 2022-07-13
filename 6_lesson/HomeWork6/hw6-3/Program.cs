@@ -44,9 +44,9 @@ double[,] CopyMass (double[,] array)
 }
 
 int row = 3;
-int column = 4;
+int column = 3;
 
-Console.WriteLine($"Введите числовые параметры в колличестве {row*column} шт:");
+Console.WriteLine($"Введите числовые параметры в количестве {row*column} шт:");
 double[,] myMass = MassNums(row,column);
 Console.WriteLine("Оригинальный массив: ");
 Print(myMass);

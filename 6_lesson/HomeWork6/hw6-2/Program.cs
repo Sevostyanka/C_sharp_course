@@ -32,13 +32,14 @@ double[] Point (double[] a, double[] b)
 }
 
 int n = 2;
-Console.WriteLine("Введите два параметра первой прямой");
+Console.WriteLine("Введите X и Y первой прямой:");
 double[] Line1 = MassNums(n);
-Print(Line1);
-Console.WriteLine("Введите два параметра второй прямой");
-double[] Line2 = MassNums(n);
-Print(Line2);
+Console.Write("Прямая 1: "); Print(Line1);
 
-Console.Write("Точка пересечения двух прямых: ");
+Console.WriteLine("Введите X и Y второй прямой:");
+double[] Line2 = MassNums(n);
+Console.Write("Прямая 2: "); Print(Line2);
+
+Console.Write("Точка пересечения двух прямых (X и Y): ");
 Print (Point(Line1, Line2));
 
